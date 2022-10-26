@@ -2,8 +2,6 @@
 
 [<img src="https://img.shields.io/static/v1?label=&message=PowerShell&color=brightgreen" />]() [<img src="https://img.shields.io/static/v1?label=&message=PowerHTML&color=yellow" />]() [<img src="https://img.shields.io/static/v1?label=&message=Web%20Scraping&color=important" />](https://github.com/topics/web-scraping)
 
-[TOC]
-
 [PowerShell Core](https://github.com/PowerShell/PowerShell) (an advanced version of Windows PowerShell with open-source and cross-platform properties) is a configuration and automation engine for solving tasks and issues designed by Microsoft. PowerShell and its successors consist of a scripting language with object-oriented support and a command line shell. 
 
 PowerShell is often used in the data acquisition field. This guide will let us through several examples to scrape data with PowerShell. We will also see why and how PowerHTML fits in the scraping process- let's get started. 
