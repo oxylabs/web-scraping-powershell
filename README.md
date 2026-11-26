@@ -1,6 +1,6 @@
 # Web Scraping With PowerShell: The Ultimate Guide
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=web-scraping-powershell-github&transaction_id=102f49063ab94276ae8f116d224b67)`
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=web-scraping-powershell&utm_campaign=banner&groupid=877)`
 
 <p align="left">
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
@@ -16,7 +16,7 @@
 
 PowerShell is often used in the data acquisition field. This guide will let us through several examples to scrape data with PowerShell. We will also see why and how PowerHTML fits in the scraping process- let's get started. 
 
-**Note:** Don't miss reading our detailed guide on [web scraping with PowerShell and PowerHTML](https://oxylabs.io/blog/powershell-web-scraping). 
+**Note:** Don't miss reading our detailed guide on [web scraping with PowerShell and PowerHTML](https://oxylabs.io/blog/powershell-web-scraping?utm_source=github&utm_medium=referral&utm_content=web-scraping-powershell&groupid=877). 
 
 ## Target for Scraping Examples
 
@@ -85,7 +85,7 @@ $BookList
 
 ## Parsing Data With PowerHTML
 
-Until now, we’ve been using regular expressions to extract the required information from HTML raw content. Regular expressions are difficult to read and modify; therefore, a more readable and maintainable parser is inevitable. [PowerHTML](https://www.powershellgallery.com/packages/PowerHTML/0.1.7) saves us in this scenario. Being a powerful wrapper over the [HtmlAgilityPack](https://html-agility-pack.net/), it supports  *[XPath](https://oxylabs.io/blog/xpath-vs-css)* syntax to parse the HTML, thereby helping us parse the raw contents easily even in absence of the HTML [Document Object Model (DOM)](https://www.w3.org/TR/WD-DOM/introduction.html).
+Until now, we’ve been using regular expressions to extract the required information from HTML raw content. Regular expressions are difficult to read and modify; therefore, a more readable and maintainable parser is inevitable. [PowerHTML](https://www.powershellgallery.com/packages/PowerHTML/0.1.7) saves us in this scenario. Being a powerful wrapper over the [HtmlAgilityPack](https://html-agility-pack.net/), it supports  *[XPath](https://oxylabs.io/blog/xpath-vs-css?utm_source=github&utm_medium=referral&utm_content=web-scraping-powershell&groupid=877)* syntax to parse the HTML, thereby helping us parse the raw contents easily even in absence of the HTML [Document Object Model (DOM)](https://www.w3.org/TR/WD-DOM/introduction.html).
 
 ### Installing PowerHTML
 
